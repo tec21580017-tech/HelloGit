@@ -1,0 +1,1 @@
+print ("hola creando el rachivo ramma_1.py")
